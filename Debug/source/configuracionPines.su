@@ -1,0 +1,2 @@
+configuracionPines.c:28:6:pinMode	32	static
+configuracionPines.c:100:6:digitalWrite	24	static
